@@ -2,7 +2,7 @@
 
 `md-footer` is a simple, yet powerful command-line tool designed to manage Markdown footers across multiple documents. Born out of the need for consistent footer content in Markdown files, this tool provides an easy way to append predefined footers, including social media links, contact information, and more, to your Markdown documents.
 
-![md-footer banner](https://github.com/glizzykingdreko/md-footer/blob/main/img/banner.png)
+![md-footer banner](https://raw.githubusercontent.com/glizzykingdreko/md-footer/main/img/banner.png)
 
 [![PyPI version](https://badge.fury.io/py/md-footer.svg)](https://badge.fury.io/py/md-footer)
 
